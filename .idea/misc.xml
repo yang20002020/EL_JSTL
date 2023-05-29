@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ELDemo1" />
     <file type="web" url="file://$PROJECT_DIR$/ELDemo2" />
     <file type="web" url="file://$PROJECT_DIR$/ELDemo3" />
+    <file type="web" url="file://$PROJECT_DIR$/ELDemo4" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/ELDemo1/pom.xml" />
         <option value="$PROJECT_DIR$/ELDemo2/pom.xml" />
         <option value="$PROJECT_DIR$/ELDemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/ELDemo4/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ELDemo1" />
         <module name="ELDemo2" />
         <module name="ELDemo3" />
-        <module name="ELDemo1" />
+        <module name="ELDemo4" />
       </profile>
     </annotationProcessing>
   </component>
