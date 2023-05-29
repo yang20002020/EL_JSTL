@@ -10,6 +10,7 @@
         <module name="ELDemo2" />
         <module name="ELDemo3" />
         <module name="ELDemo4" />
+        <module name="ELDemo5" />
       </profile>
     </annotationProcessing>
   </component>
