@@ -15,7 +15,7 @@
 <h1>EL获取web开发常用对象</h1>
 ${param.name}--<!--相当于request.getParameter("name")-->
 <br/>
-<!--等价于--->
+<!--等价于---->
 <%=request.getParameter("name")%><br/>
 ${paramValues.hobby[0]}${paramValues.hobby[1]}<br/>
 <!--等价于--->
