@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ELDemo1" />
         <module name="ELDemo2" />
         <module name="ELDemo3" />
         <module name="ELDemo4" />
-        <module name="JSTLDemo1" />
         <module name="ELDemo5" />
+        <module name="ELDemo1" />
+        <module name="JSTLDemo2" />
+        <module name="JSTLDemo1" />
       </profile>
     </annotationProcessing>
   </component>

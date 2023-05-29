@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:40:02 +0800] "GET /JSTLDemo2 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:40:03 +0800] "GET /JSTLDemo2/ HTTP/1.1" 200 52 http-bio-8080-exec-3 1309
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:40:09 +0800] "GET /JSTLDemo2/demo1.jsp HTTP/1.1" 200 2656 http-bio-8080-exec-4 330
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:41:39 +0800] "GET /JSTLDemo2 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:41:39 +0800] "GET /JSTLDemo2/ HTTP/1.1" 200 52 http-bio-8080-exec-2 57
+0:0:0:0:0:0:0:1 - - [29/May/2023:23:41:46 +0800] "GET /JSTLDemo2/demo1.jsp HTTP/1.1" 200 2655 http-bio-8080-exec-3 989
